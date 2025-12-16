@@ -4,6 +4,7 @@ emoji: "🔥"
 type: "tech"     
 topics: ["zenn", "markdown", "git", "cli"]
 published: true 
+published_at: 2025-12-15 23:00
 ---
 
 # zennへローカルmdからの更新を学ぶ
