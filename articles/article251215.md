@@ -76,6 +76,8 @@ vs codeだとzenn previewをつかわずともmdファイルはpreviewしてく�
 ### 5. 記事を投稿する
 
 ```bash
+git add .
+git commit -m "記事投稿"
 git push
 ```
 
