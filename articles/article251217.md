@@ -25,6 +25,8 @@ const price = 1500;
 productName = "Desktop"; // OK
 ```
 
+### TypeScript
+
 ```typescript
 // 型注釈なしでも型推論で string / number が自動判定される
 let productName = "Laptop";
