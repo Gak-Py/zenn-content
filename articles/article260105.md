@@ -1,5 +1,5 @@
 ---
-title: "Promiseから学ぶasync/await。並列処理まで含めた非同期処理の『正解』"
+title: "Promiseから学ぶasync/awaitと、並列処理 Promise.all"
 emoji: "⏳"
 type: "tech"
 topics: ["javascript", "es6", "frontend", "programming"]
