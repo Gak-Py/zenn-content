@@ -3,7 +3,7 @@ title: "Promiseから学ぶasync/await。並列処理まで含めた非同期処
 emoji: "⏳"
 type: "tech"
 topics: ["javascript", "es6", "frontend", "programming"]
-published: true,
+published: true
 published_at: 2026-01-05 18:05
 ---
 
